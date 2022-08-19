@@ -1,3 +1,5 @@
+![dataset-cover](https://user-images.githubusercontent.com/74180779/185678780-79ce3e1a-7d41-43a9-817c-dc8b5d904299.jpg)
+
 # **Full Data Analysis and Visualization using Python on a 10,000-row Database**
 
 - Here, I have done a full data analysis and visualization on the top movies database using python libraries like: pandas, NumPy and Matplotlib.
