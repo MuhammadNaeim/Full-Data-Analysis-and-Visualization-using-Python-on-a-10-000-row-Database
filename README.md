@@ -2,8 +2,8 @@
 
 # **Full Data Analysis and Visualization using Python on a 10,000-row Top Moveis Database**
 
-- Here, I have done a full data analysis and visualization on the top movies database using python libraries like: pandas, NumPy and Matplotlib.
-- the goal of the analysis is to answer 3 questions and draw conclusions through the analysis process using visualization tools in python.
+- **Here, I have done a full data analysis and visualization on the top movies database using python libraries like: pandas, NumPy and Matplotlib.**
+### The goal of the analysis is to answer 3 questions and draw conclusions through the analysis process using visualization tools in python.
 
 ## **Questions:**
 
