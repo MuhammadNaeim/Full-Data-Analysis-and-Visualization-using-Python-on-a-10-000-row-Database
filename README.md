@@ -14,7 +14,7 @@
 ### **Throughout this analysis process I have answered these 3 questions through 3 phases:**
 
 1. **Data Wrangling phase:**
-    - throughout this phase, I investigated the dataset looking for duplication rows and null values to handle them in a nice way where I don't spoil the data.
+    - throughout this phase, I investigated the dataset looking for duplicated rows and null values to handle them in a nice way where I don't spoil the data.
     - fixing columns data type to get accurate results.
     - removing unuseful columns from the dataset to keep the process nice and clean.
 2. **Exploratory Data Analysis phase:**
